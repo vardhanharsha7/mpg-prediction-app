@@ -1,2 +1,0 @@
-# mpg-prediction-app
-.
